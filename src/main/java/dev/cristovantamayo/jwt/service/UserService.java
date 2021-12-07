@@ -1,5 +1,6 @@
 package dev.cristovantamayo.jwt.service;
 
+import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
